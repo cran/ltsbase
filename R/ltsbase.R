@@ -1,4 +1,5 @@
-ltsbase <-
+
+ltsbase=
 function(xdata, y,  print=FALSE, plot=FALSE, alpha=0.50, by=0.001) {
 
   library(MASS);library(robustbase)   ;

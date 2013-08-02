@@ -13,8 +13,8 @@ This is a package that gives the estimates of Ridge and Liu parameters based on 
 \tabular{ll}{
 Package: \tab ltsbase\cr
 Type: \tab Package\cr
-Version: \tab 1.0.0\cr
-Date: \tab 2013-07-24\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2013-08-02\cr
 License: \tab GPL-3\cr
 }
 \code{ltsbase} package has a main function called \code{ltsbase} and also two other useful functions called \code{ltsbaseDefault} and \code{ltsbaseSummary}. The function \code{ltsbase} computes the minimum MSE values for Ordinary Least Squares, Ridge, Ridge based on LTS, LTS, Liu, Liu based on LTS method. The second function \code{ltsbaseDefault} is used to get the fitted values and residuals of the corresponding model. The last function \code{ltsbaseSummary} is used to get the regression coefficients and the biasing parameter for the best MSE among four regression models. 
